@@ -1,0 +1,6 @@
+{
+  "name": "EventLedger",
+  "description": "Full-stack Event-Booking Platform with Role-Based Access Control, Atomic Capacity Locking, PostgreSQL Schema, Swagger REST API Explorer, and SDLC Architecture Blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
